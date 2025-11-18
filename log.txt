@@ -1,3 +1,4 @@
+4b54628 Task 2.2
 26db1ea Task 2.1
 04bdd59 Refactor: completed Task 2.1 step 4
 cd0141c Update log.txt for Task 1.2
