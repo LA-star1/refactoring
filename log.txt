@@ -1,3 +1,7 @@
+6d8a688 Complete refactoring for Task 2.4
+a7ec79e Fix code style for Task 1.1
+c7234fd all changes
+87785d5 Task 2.4
 2dda1a9 Task 2.3
 4b54628 Task 2.2
 26db1ea Task 2.1
